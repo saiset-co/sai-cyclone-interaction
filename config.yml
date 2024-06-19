@@ -1,0 +1,14 @@
+common:
+  http:
+    enabled: true
+    port: 8081
+  ws:
+    enabled: false
+    port: 8082
+
+cyclone:
+  node_address: ""
+  wallet: ""
+  private: ""
+
+crypto_address: ""
